@@ -1,0 +1,1 @@
+Serve this static site over HTTPS. External links to Fueled By Farrell, LinkedIn, and other services are governed by those platforms’ own terms. Review the privacy and terms information before launch.
